@@ -4,9 +4,9 @@
 Ce projet utilise le deep learning pour détecter automatiquement 38 types de maladies sur 14 plantes différentes. L'application permet aux agriculteurs et jardiniers d'identifier rapidement les problèmes de santé de leurs plantes.
 
 ##  Objectifs
-- ✅ Détecter automatiquement les maladies des plantes
-- ✅ Classifier 38 types de maladies différentes
-- ✅ Interface utilisateur intuitive et accessible
+-  Détecter automatiquement les maladies des plantes
+-  Classifier 38 types de maladies différentes
+-  Interface utilisateur intuitive et accessible
 
 ##   Performance du modèle
 - Accuracy : ~87.36%
