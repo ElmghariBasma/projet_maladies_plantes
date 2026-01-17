@@ -14,9 +14,9 @@ Précision : ~89.41%
 Rappel : ~86.03%
 
 ## Plantes supportées
--Apple (Pomme)
-Blueberry (Myrtille)
-Cherry (Cerise)
+- Apple (Pomme)
+- Blueberry (Myrtille)
+- Cherry (Cerise)
 Corn (Maïs)
 Grape (Raisin)
 Orange
